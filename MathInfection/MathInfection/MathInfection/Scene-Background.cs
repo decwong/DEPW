@@ -7,5 +7,9 @@ namespace MathInfection
 {
     class Background
     {
+        public Background()
+        {
+            // Derrick will make this calss to background scrolling.
+        }
     }
 }
